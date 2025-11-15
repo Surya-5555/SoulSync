@@ -1,1 +1,1 @@
-SoulSync - MERN
+SoulSync - MERN Stack
